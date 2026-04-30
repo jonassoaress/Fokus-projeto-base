@@ -4,6 +4,8 @@ Este é um desafio desenvolvido para fins didaticos como parte da formação [De
 
 Para o utilizar, clique no link a seguir: https://fokus-projeto-base-weld.vercel.app/
 
+<img width="1898" height="902" alt="image" src="https://github.com/user-attachments/assets/fa50729b-a34b-4f03-81e8-1db616ebbac9" alt="Screenshot do Fokus" />
+
 ## Tecnologias Utilizadas
 
 - HTML5
