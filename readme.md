@@ -1,6 +1,6 @@
 # Fokus
 
-Este é um desafio desenvolvido para fins didaticos como parte da formação [Desenvolva aplicações Web com JavaScript] da Alura. O projeto consiste em um site/mobile app de um timer no formato de Pomodoro.
+Este é um desafio desenvolvido para fins didaticos como parte da formação `Desenvolva aplicações Web com JavaScript` da Alura. O projeto consiste em um site/mobile app de um timer no formato de Pomodoro.
 
 Para o utilizar, clique no link a seguir: https://fokus-projeto-base-weld.vercel.app/
 
